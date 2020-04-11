@@ -1,0 +1,25 @@
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+}
+
+.card img {
+  height: 100px;
+}
+
+.card h3 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+  margin-left:10px;
+}
+
+.card p {
+  opacity: .5;
+  font-size: 16px;
+}
+
